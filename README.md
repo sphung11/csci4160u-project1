@@ -1,6 +1,6 @@
 # csci4160u-project1
 
-Custom created an "Executable" file. Game instructions are in the README.txt. Made with Unity version 2019.2.19f1.
+To play the game, download the Executable.zip and run the A1.exe. Game instructions are in the README.txt. Video demo of gameplay is available as demo.mp4. Made with Unity version 2019.2.19f1.
 
 ## Credits
 
